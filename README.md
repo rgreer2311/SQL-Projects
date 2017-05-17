@@ -1,3 +1,2 @@
 # SQL-Projects
-This repository contains various SQL projects developed in Oracle SQL Developer.
-Project descriptions are available in the project source files.
+This repository contains various SQL exercises from Oracle 11g SQL and were developed in Oracle SQL Developer.
